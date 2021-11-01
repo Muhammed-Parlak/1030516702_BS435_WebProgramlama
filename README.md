@@ -1,5 +1,5 @@
-Öğrenci Numarası: 1030510000
+Öğrenci Numarası: 1030516702
 
-Öğrenci Adı: Ömür Şahin
+Öğrenci Adı: Muhammed Parlak
 
 Ders Adı: BS435 Web Programlama
